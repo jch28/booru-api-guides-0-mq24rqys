@@ -1,0 +1,15 @@
+title: Booru API Tools and Resources
+description: Collection of open-source tools, libraries, and guides for working with booru image board APIs. Includes batch watermarking, metadata export, reverse image search, and more.
+url: "https://jch28.github.io"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: booru-tools
